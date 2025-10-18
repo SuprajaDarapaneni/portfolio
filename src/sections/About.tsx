@@ -31,12 +31,12 @@ export default function About() {
             className="flex-1 space-y-6 text-gray-700 dark:text-gray-300"
           >
             <p className="text-lg">
-              With <strong>6 months of hands-on mobile app development</strong> and strong experience in full-stack web technologies,
+              With <strong>1.5 years of hands-on mobile app development</strong> and strong experience in full-stack web technologies,
               I have successfully delivered a <strong>client-centric E-commerce app</strong> using React Native CLI, achieving 100% satisfaction
               based on custom UI/UX and seamless functionality.
             </p>
             <p className="text-lg">
-              Currently, I work as a <strong>Next.js Frontend Developer</strong> at <strong>MOVE37 Productions</strong>, where I craft scalable and high-performing UI systems
+              Currently, I work as a <strong>Next.js Frontend Developer</strong> at <strong>MMT Softtech </strong>, where I craft scalable and high-performing UI systems
               using the latest in <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, and component libraries like <strong>shadcn/ui</strong>.
             </p>
             <p className="text-lg">
@@ -65,7 +65,7 @@ export default function About() {
             <li>
               <div className="flex items-center gap-2">
                 <CalendarDays className="text-black dark:text-white w-5 h-5" />
-                <h4 className="font-semibold text-gray-900 dark:text-white">MOVE37 Productions</h4>
+                <h4 className="font-semibold text-gray-900 dark:text-white">MMtSofttech</h4>
               </div>
               <p className="text-sm text-gray-500">Next.js Frontend Developer (Last 2 Months)</p>
               <p className="text-gray-600 dark:text-gray-300 mt-1">
@@ -100,7 +100,7 @@ export default function About() {
         {/* Call to Action */}
         <div className="text-center mt-16">
           <a
-            href="https://wa.me/+918374330906?text=Can%20we%20meet%20in%20Google%20Meet%20https%3A%2F%2Fmeet.google.com%2Fzsz-aatg-wqo"
+            href="https://wa.me/+919392511176?text=Can%20we%20meet%20in%20Google%20Meet%20https%3A%2F%2Fmeet.google.com%2Fzsz-aatg-wqo"
             target='_blank'
             className="inline-flex items-center gap-2 bg-black text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition"
           >
