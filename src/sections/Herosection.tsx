@@ -30,7 +30,7 @@ const Herosection: React.FC = () => {
       {/* CTA BUTTONS */}
       <div className="flex flex-wrap gap-4 justify-center">
         <a
-           href="https://wa.me/+918374330906?text=Can%20we%20meet%20in%20Google%20Meet%20https%3A%2F%2Fmeet.google.com%2Fzsz-aatg-wqo"
+           href="https://wa.me/+919392511176?text=Can%20we%20meet%20in%20Google%20Meet%20https%3A%2F%2Fmeet.google.com%2Fzsz-aatg-wqo"
            target='_blank'
           className="px-6 py-3 bg-gradient-to-r bg-black dark:bg-white dark:text-black text-white font-semibold rounded-full shadow-lg hover:opacity-90 transition"
         >
